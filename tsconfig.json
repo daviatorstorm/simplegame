@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "outFile": "script.js",
+        "sourceMap": false
+    }
+}
